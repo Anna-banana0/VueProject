@@ -1,0 +1,11 @@
+{
+    "users" : [
+        {
+            "fullName": "Ani Singh", "id": 1, "email": "anisingh@gmail.com", "phNo": "1234567891", "Address": "Pune", "password": "ani12345", "reenterpassword": "ani12345"
+        },
+        {
+            "fullName": "Omi Singh", "id": 2, "email": "omisingh@gmail.com", "phNo": "1234567891", "Address": "Pune", "password": "omi12345", "reenterpassword": "omi12345"
+        }
+    ]
+}
+
